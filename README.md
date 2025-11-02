@@ -1,49 +1,36 @@
-<h1 align="left">👋 Hi, I'm Logan</h1>
-<p align="left">
-  <b>Full-stack Engineer · System Architect · AI Researcher</b><br>
-  全栈工程师 · 系统架构师 · AI 研究者
+<h1 align="center">欢迎，我是Logan J.</h1>
+<p align="center">
+  <b>全栈工程师，系统架构师，AI工程师</b>
 </p>
+在分布式系统、实时音视频和人工智能领域深耕多年，专注于构建从边缘到云端的智能化系统。致力于将技术创新转化为实际生产力，通过开源协作推动技术社区共同进步。
+我的技术理念：架构 = 性能 + 可靠性 + 可扩展性
+🛠️ 技术栈
+Go Java Python SpringBoot SpringCloud K8S Raft
+RTMP RTSP MQTT TCP/IP Socket CDN Ansible
+Vue.js React.js Taro.js TensorFlow PyTorch
+🚀 开源项目
 
-<p align="left"><i>AI Facial Systems · Edge Networking · Intelligent Automation</i><br>
-AI 面部驱动 · 边缘网络 · 智能化自动运维
+roma - 轻量级 Go 跳板机
+mtconsole - 网络运维终端
+headcni - K8S CNI 插件（基于 Headscale + Tailscale）
+
+-0110100001100101011011000110110001101111
+<h1 align="center">👋 Hi, I'm Logan J.</h1>
+<p align="center">
+  <b>Full-stack Engineer · System Architect · AI Researcher</b>
 </p>
+With years of experience in distributed systems, real-time A/V, and AI, I focus on building intelligent systems from edge to cloud. Committed to transforming innovation into productivity through open-source collaboration.
+My technical philosophy: Architecture = Performance + Reliability + Scalability
+🛠️ Tech Stack
+Go Java Python SpringBoot SpringCloud K8S Raft
+RTMP RTSP MQTT TCP/IP Socket CDN Ansible
+Vue.js React.js Taro.js TensorFlow PyTorch
+🚀 Open Source Projects
 
-### 📡 Technologies & Protocols | 技术与协议
-
-- Real-time video streaming: **RTMP, RTSP**  
-- IoT & networking: **MQTT, TCP/IP (IPv4/IPv6), Socket programming**  
-- CDN & OAuth2 authentication  
-- DevOps automation: **Ansible, self-developed jumpserver**  
-- Distributed systems: **SpringBoot, SpringCloud, Raft, K8S, K3S**  
-- Web frameworks & patterns: **Vue.js, React.js, Taro.js, MVC, MVVM, Design Patterns**  
-
-实时视频推流：RTMP、RTSP  
-物联网 & 网络：MQTT、TCP/IP（IPv4/IPv6）、Socket编程  
-CDN & OAuth2认证  
-运维自动化：Ansible 下发通道、自研跳板机  
-分布式服务：SpringBoot、SpringCloud、Raft、K8S、K3S  
-Web框架与设计模式：Vue.js、React.js、Taro.js、MVC、MVVM、设计模式  
-
-### 🤖 Machine Learning | 机器学习
-
-- Supervised & unsupervised learning  
-- Algorithms: Linear Regression, Decision/Regression Trees  
-- Frameworks: TensorFlow, PyTorch  
-- Speech synthesis, dataset annotation, model training  
-
-监督与无监督学习  
-算法：线性回归，分类与回归树  
-框架：TensorFlow, PyTorch  
-语音合成，数据集标注与模型训练  
-
-### 🚀 Projects | 项目精选
-
-**roma** · Lightweight jumpserver in Go  
-**mtconsole** · Simple network maintenance terminal  
-**headcni** · Kubernetes CNI plugin (Headscale + Tailscale)  
-**Facial Drive Studio** · Viseme-driven AI animation  
-
-### 📫 Contact | 联系方式
+roma - Lightweight Go jumpserver
+mtconsole - Network maintenance terminal
+headcni - K8S CNI plugin (Headscale + Tailscale)
+Facial Drive Studio - AI-driven facial animation system
 
 <a href="mailto:logan@binrc.com"><img src="https://img.shields.io/badge/Email-logan@binrc.com-blue?style=flat-square&logo=gmail"/></a>
 <a href="https://blog.csdn.net/qq_41063142?type=blog"><img src="https://img.shields.io/badge/Blog-CSDN-red?style=flat-square&logo=blogger"/></a>
