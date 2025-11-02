@@ -11,18 +11,10 @@ AI 面部驱动 · 边缘网络 · 智能化自动运维
 ### ⚙️ Skills | 技能
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-System%20Administration-000000?style=for-the-badge&logo=linux&logoColor=white&rounded=true"/>
-  <img src="https://img.shields.io/badge/Shell-Automation-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&rounded=true"/>
-  <img src="https://img.shields.io/badge/Java-Enterprise%20Apps-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&rounded=true"/>
-  <img src="https://img.shields.io/badge/Python-ML%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white&rounded=true"/>
-  <img src="https://img.shields.io/badge/C++-Performance%20%26%20Embedded-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&rounded=true"/>
-  <img src="https://img.shields.io/badge/Kotlin-Mobile%20&%20Backend-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&rounded=true"/>
-  <img src="https://img.shields.io/badge/Go-Backend%20%26%20System-00ADD8?style=for-the-badge&logo=go&logoColor=white&rounded=true"/>
-  <img src="https://img.shields.io/badge/React-Web%20Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=white&rounded=true"/>
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white&rounded=true"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&rounded=true"/>
-  <img src="https://img.shields.io/badge/TiDB-Distributed%20DB-47A6FF?style=for-the-badge&logo=tidb&logoColor=white&rounded=true"/>
-  <img src="https://img.shields.io/badge/GPU-Acceleration-FF6F00?style=for-the-badge&logo=nvidia&logoColor=white&rounded=true"/>
+  <img src="https://cdn.simpleicons.org/go/00ADD8" width="40" height="40" title="Go"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" title="Python"/>
+  <img src="https://cdn.simpleicons.org/java/ED8B00" width="40" height="40" title="Java"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" title="C++"/>
 </p>
 
 ### 📡 Technologies & Protocols | 技术与协议
@@ -65,4 +57,4 @@ Web框架与设计模式：Vue.js、React.js、Taro.js、MVC、MVVM、设计模�
 <a href="mailto:logan@binrc.com"><img src="https://img.shields.io/badge/Email-logan@binrc.com-blue?style=flat-square&logo=gmail"/></a>
 <a href="https://blog.csdn.net/qq_41063142?type=blog"><img src="https://img.shields.io/badge/Blog-CSDN-red?style=flat-square&logo=blogger"/></a>
 
-<p align="center"><i>Innovation = Experimentation + Openness + Sharing</i><br>创新 = 实验 + 开放 + 分享</p>
+<p align="left"><i>Innovation = Experimentation + Openness + Sharing</i><br>创新 = 实验 + 开放 + 分享</p>
