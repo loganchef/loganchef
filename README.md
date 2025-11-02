@@ -8,15 +8,6 @@
 AI 面部驱动 · 边缘网络 · 智能化自动运维
 </p>
 
-### ⚙️ Skills | 技能
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/go/00ADD8" width="40" height="40" title="Go"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" title="Python"/>
-  <img src="https://cdn.simpleicons.org/java/ED8B00" width="40" height="40" title="Java"/>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" title="C++"/>
-</p>
-
 ### 📡 Technologies & Protocols | 技术与协议
 
 - Real-time video streaming: **RTMP, RTSP**  
