@@ -6,10 +6,6 @@
 - 📫 联系我: logan@binrc.com
 - 😄 查看我的博客: [CSDN](https://blog.csdn.net/qq_41063142?type=blog)
 
-![](https://github-readme-stats.vercel.app/api?username=loganchef&show_icons=true&theme=transparent)
-
-你是我的 ![Visitor Count](https://profile-counter.glitch.me/loganchef/count.svg) 位访客，感谢你！ 😘
-
 ### 我的技能
 
 - **编程语言与框架：**
