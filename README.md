@@ -1,14 +1,10 @@
-<p align="center">
-  <img alt="AI2O Logo" src="AI2O_logo.png" width="120" height="40" style="object-fit:cover; object-position:center; border-radius:6px;"/>
-</p>
-
-<h1 align="center">👋 Hi, I'm Logan</h1>
-<p align="center">
+<h1 align="left">👋 Hi, I'm Logan</h1>
+<p align="left">
   <b>Full-stack Engineer · System Architect · AI Researcher</b><br>
   全栈工程师 · 系统架构师 · AI 研究者
 </p>
 
-<p align="center"><i>AI Facial Systems · Edge Networking · Intelligent Automation</i><br>
+<p align="left"><i>AI Facial Systems · Edge Networking · Intelligent Automation</i><br>
 AI 面部驱动 · 边缘网络 · 智能化自动运维
 </p>
 
@@ -19,16 +15,10 @@ AI 面部驱动 · 边缘网络 · 智能化自动运维
   <img src="https://img.shields.io/badge/Shell-Automation-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&rounded=true"/>
   <img src="https://img.shields.io/badge/Java-Enterprise%20Apps-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&rounded=true"/>
   <img src="https://img.shields.io/badge/Python-ML%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white&rounded=true"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/C++-Performance%20%26%20Embedded-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&rounded=true"/>
   <img src="https://img.shields.io/badge/Kotlin-Mobile%20&%20Backend-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&rounded=true"/>
   <img src="https://img.shields.io/badge/Go-Backend%20%26%20System-00ADD8?style=for-the-badge&logo=go&logoColor=white&rounded=true"/>
   <img src="https://img.shields.io/badge/React-Web%20Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=white&rounded=true"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white&rounded=true"/>
   <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&rounded=true"/>
   <img src="https://img.shields.io/badge/TiDB-Distributed%20DB-47A6FF?style=for-the-badge&logo=tidb&logoColor=white&rounded=true"/>
