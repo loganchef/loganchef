@@ -13,14 +13,18 @@ AI 面部驱动 · 边缘网络 · 智能化自动运维
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-Go-Backend%20&%20System-00ADD8?style=for-the-badge&logo=go&logoColor=white&rounded=true"/>
+  <img src="https://img.shields.io/badge/Language-Python-ML%20%26%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white&rounded=true"/>
+  <img src="https://img.shields.io/badge/Language-Java-Enterprise%20Apps-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&rounded=true"/>
+  <img src="https://img.shields.io/badge/Language-C++-Performance%20&%20Embedded-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&rounded=true"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white&rounded=true"/>
+  <img src="https://img.shields.io/badge/Tools-Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&rounded=true"/>
+  <img src="https://img.shields.io/badge/Tools-Linux-System%20Administration-000000?style=for-the-badge&logo=linux&logoColor=white&rounded=true"/>
+</p>
+
 
 <p align="center">
   <b>Projects:</b> roma · mtconsole · headcni · Facial Drive Studio<br>
